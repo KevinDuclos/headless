@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<titre><![CDATA[7e Mer]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/cache/62bdbd1ef4aca77774e9252ca53129ae/1/0/10008091_5.jpg]]></image>
+		<prix><![CDATA[49.9]]></prix>
+		<catgorie><![CDATA[Jeu de rôle]]></catgorie>
+		<editeur><![CDATA[Agathe Rpg]]></editeur>
+		<rouen><![CDATA[]]></rouen>
+		<lille><![CDATA[]]></lille>
+		<caen><![CDATA[]]></caen>
+		<web><![CDATA[1]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[Appel de Cthulhu]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/cache/62bdbd1ef4aca77774e9252ca53129ae/1/0/10022225_1.png]]></image>
+		<prix><![CDATA[39.95]]></prix>
+		<catgorie><![CDATA[Jeu de rôle]]></catgorie>
+		<editeur><![CDATA[	Edge Entertainment]]></editeur>
+		<rouen><![CDATA[]]></rouen>
+		<lille><![CDATA[]]></lille>
+		<caen><![CDATA[]]></caen>
+		<web><![CDATA[2]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[ Aventures en Terre Du Milieu - Guide du Gardien des Légendes]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/cache/62bdbd1ef4aca77774e9252ca53129ae/1/0/10010954-0.jpg]]></image>
+		<prix><![CDATA[32.95]]></prix>
+		<catgorie><![CDATA[Jeu de rôle]]></catgorie>
+		<editeur><![CDATA[Edge Entertainment]]></editeur>
+		<rouen><![CDATA[]]></rouen>
+		<lille><![CDATA[]]></lille>
+		<caen><![CDATA[]]></caen>
+		<web><![CDATA[1]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[Deadlands Reloaded]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/cache/62bdbd1ef4aca77774e9252ca53129ae/1/0/10018268-0.jpg]]></image>
+		<prix><![CDATA[59.9]]></prix>
+		<catgorie><![CDATA[Jeu de rôle]]></catgorie>
+		<editeur><![CDATA[	Black Book Editions]]></editeur>
+		<rouen><![CDATA[1]]></rouen>
+		<lille><![CDATA[0]]></lille>
+		<caen><![CDATA[0]]></caen>
+		<web><![CDATA[1]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[Dungeons & Dragons 5 édition]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/cache/62bdbd1ef4aca77774e9252ca53129ae/1/0/x10006537-0.jpg.pagespeed.ic.PjQR_yM0Z8.webp]]></image>
+		<prix><![CDATA[50.00]]></prix>
+		<catgorie><![CDATA[Jeu de rôle]]></catgorie>
+		<editeur><![CDATA[Gale Force Nine]]></editeur>
+		<rouen><![CDATA[2]]></rouen>
+		<lille><![CDATA[2]]></lille>
+		<caen><![CDATA[2]]></caen>
+		<web><![CDATA[2]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[Donjon de Naheulbeuk : La geste de Gurdil - Prospection]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/cache/62bdbd1ef4aca77774e9252ca53129ae/1/0/10009600-0.jpg]]></image>
+		<prix><![CDATA[21.00]]></prix>
+		<catgorie><![CDATA[Jeu de rôle]]></catgorie>
+		<editeur><![CDATA[Le Grimoire]]></editeur>
+		<rouen><![CDATA[1]]></rouen>
+		<lille><![CDATA[1]]></lille>
+		<caen><![CDATA[1]]></caen>
+		<web><![CDATA[1]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[Gobelin qui s'en dédit - livre de règles]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/cache/62bdbd1ef4aca77774e9252ca53129ae/1/0/10020350.jpg]]></image>
+		<prix><![CDATA[40.00]]></prix>
+		<catgorie><![CDATA[Jeu de rôle]]></catgorie>
+		<editeur><![CDATA[Posidonia Editions]]></editeur>
+		<rouen><![CDATA[1]]></rouen>
+		<lille><![CDATA[1]]></lille>
+		<caen><![CDATA[1]]></caen>
+		<web><![CDATA[1]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[légende des 5 Anneaux 5 Edition]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/cache/62bdbd1ef4aca77774e9252ca53129ae/1/0/10019259.png]]></image>
+		<prix><![CDATA[49.95]]></prix>
+		<catgorie><![CDATA[Jeu de rôle]]></catgorie>
+		<editeur><![CDATA[	Fantasy Flight Games]]></editeur>
+		<rouen><![CDATA[1]]></rouen>
+		<lille><![CDATA[1]]></lille>
+		<caen><![CDATA[1]]></caen>
+		<web><![CDATA[2]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[Lamentations of the Flame Princess - Livre du joueur : règles & magie]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/cache/62bdbd1ef4aca77774e9252ca53129ae/1/0/x10022577.png.pagespeed.ic.6OeE3LHTsS.webp]]></image>
+		<prix><![CDATA[29.90]]></prix>
+		<catgorie><![CDATA[Jeu de rôle]]></catgorie>
+		<editeur><![CDATA[	Black Book Editions]]></editeur>
+		<rouen><![CDATA[1]]></rouen>
+		<lille><![CDATA[1]]></lille>
+		<caen><![CDATA[1]]></caen>
+		<web><![CDATA[1]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[Lamentations of the Flame Princess - Guide de l'arbitre]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/cache/62bdbd1ef4aca77774e9252ca53129ae/1/0/10022578.png]]></image>
+		<prix><![CDATA[29.90]]></prix>
+		<catgorie><![CDATA[Jeu de rôle]]></catgorie>
+		<editeur><![CDATA[Black Book Editions
+]]></editeur>
+		<rouen><![CDATA[1]]></rouen>
+		<lille><![CDATA[1]]></lille>
+		<caen><![CDATA[1]]></caen>
+		<web><![CDATA[0]]></web>
+	</node>
+</data>

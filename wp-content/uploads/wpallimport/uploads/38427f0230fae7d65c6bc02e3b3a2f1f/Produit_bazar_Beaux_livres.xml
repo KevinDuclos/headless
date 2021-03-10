@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<titre><![CDATA[100 séries d'animation japonaise
+]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/cache/62bdbd1ef4aca77774e9252ca53129ae/1/0/x10021888-0.jpg.pagespeed.ic.qGZGuq7gzj.jpg]]></image>
+		<prix><![CDATA[29.90]]></prix>
+		<catgorie><![CDATA[Beaux livres]]></catgorie>
+		<editeur><![CDATA[Ynnis]]></editeur>
+		<rouen><![CDATA[1]]></rouen>
+		<lille><![CDATA[1]]></lille>
+		<caen><![CDATA[0]]></caen>
+		<web><![CDATA[1]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[Atlas illustré de Tolkien
+]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/cache/62bdbd1ef4aca77774e9252ca53129ae/1/0/10018695-0.jpg]]></image>
+		<prix><![CDATA[19.95]]></prix>
+		<catgorie><![CDATA[Beaux livres]]></catgorie>
+		<editeur><![CDATA[Hachette Prat
+]]></editeur>
+		<rouen><![CDATA[0]]></rouen>
+		<lille><![CDATA[2]]></lille>
+		<caen><![CDATA[1]]></caen>
+		<web><![CDATA[2]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[Codex des 7 Couronnes
+]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/cache/62bdbd1ef4aca77774e9252ca53129ae/1/0/x10023521-0.jpg.pagespeed.ic.Wjr9G4ueoA.jpg]]></image>
+		<prix><![CDATA[24.95]]></prix>
+		<catgorie><![CDATA[Beaux livres]]></catgorie>
+		<editeur><![CDATA[Ynnis]]></editeur>
+		<rouen><![CDATA[1]]></rouen>
+		<lille><![CDATA[0]]></lille>
+		<caen><![CDATA[0]]></caen>
+		<web><![CDATA[2]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[Consoles de jeux vidéo : celles qui ont fait l'Histoire du JV
+]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/cache/62bdbd1ef4aca77774e9252ca53129ae/1/0/10017870-0.jpg]]></image>
+		<prix><![CDATA[25.00]]></prix>
+		<catgorie><![CDATA[Beaux livres]]></catgorie>
+		<editeur><![CDATA[Omake Books
+]]></editeur>
+		<rouen><![CDATA[1]]></rouen>
+		<lille><![CDATA[0]]></lille>
+		<caen><![CDATA[0]]></caen>
+		<web><![CDATA[12]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[DC COMICS ENCYCLOPEDIE ILLUSTREE
+]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/cache/62bdbd1ef4aca77774e9252ca53129ae/1/0/10005550-0.jpg]]></image>
+		<prix><![CDATA[49.95]]></prix>
+		<catgorie><![CDATA[Beaux livres]]></catgorie>
+		<editeur><![CDATA[Huginn Muninn]]></editeur>
+		<rouen><![CDATA[1]]></rouen>
+		<lille><![CDATA[0]]></lille>
+		<caen><![CDATA[0]]></caen>
+		<web><![CDATA[1]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[Diablo 3 - le Livre de Cain
+]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/cache/62bdbd1ef4aca77774e9252ca53129ae/1/0/x10023141-0.jpg.pagespeed.ic.eUqBCk4eeF.jpg]]></image>
+		<prix><![CDATA[34.90]]></prix>
+		<catgorie><![CDATA[Beaux livres]]></catgorie>
+		<editeur><![CDATA[panini]]></editeur>
+		<rouen><![CDATA[1]]></rouen>
+		<lille><![CDATA[0]]></lille>
+		<caen><![CDATA[1]]></caen>
+		<web><![CDATA[1]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[Disney - Alice au Pays des Merveilles
+]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/cache/62bdbd1ef4aca77774e9252ca53129ae/1/0/10022715-0.jpg]]></image>
+		<prix><![CDATA[39.95]]></prix>
+		<catgorie><![CDATA[Beaux livres]]></catgorie>
+		<editeur><![CDATA[Huginn Muninn]]></editeur>
+		<rouen><![CDATA[2]]></rouen>
+		<lille><![CDATA[0]]></lille>
+		<caen><![CDATA[0]]></caen>
+		<web><![CDATA[1]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[DreamLand - Artbook
+]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/cache/62bdbd1ef4aca77774e9252ca53129ae/1/0/10021887-0.jpg]]></image>
+		<prix><![CDATA[35.00]]></prix>
+		<catgorie><![CDATA[Beaux livres]]></catgorie>
+		<editeur><![CDATA[Pika]]></editeur>
+		<rouen><![CDATA[1]]></rouen>
+		<lille><![CDATA[0]]></lille>
+		<caen><![CDATA[0]]></caen>
+		<web><![CDATA[12]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[Final Fantasy VII Remake - Livre de cartes postales
+]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/cache/62bdbd1ef4aca77774e9252ca53129ae/1/0/10023152-0.jpg]]></image>
+		<prix><![CDATA[9.90]]></prix>
+		<catgorie><![CDATA[Beaux livres]]></catgorie>
+		<editeur><![CDATA[Mana Book
+]]></editeur>
+		<rouen><![CDATA[1]]></rouen>
+		<lille><![CDATA[0]]></lille>
+		<caen><![CDATA[0]]></caen>
+		<web><![CDATA[12]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[Game of Thrones - Chronique des saisons
+]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/cache/62bdbd1ef4aca77774e9252ca53129ae/1/0/10017057-0.jpg]]></image>
+		<prix><![CDATA[44.95]]></prix>
+		<catgorie><![CDATA[Beaux livres]]></catgorie>
+		<editeur><![CDATA[Huginn Muninn]]></editeur>
+		<rouen><![CDATA[2]]></rouen>
+		<lille><![CDATA[2]]></lille>
+		<caen><![CDATA[0]]></caen>
+		<web><![CDATA[1]]></web>
+	</node>
+</data>

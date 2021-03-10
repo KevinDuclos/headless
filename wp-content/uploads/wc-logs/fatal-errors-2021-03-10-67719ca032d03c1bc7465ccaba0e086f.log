@@ -1,0 +1,11 @@
+2021-03-10T09:54:21+00:00 CRITICAL Uncaught Exception: Undefined field name. in /home/keuvain01/www/wordpress/wp-content/plugins/wp-all-import/models/model/record.php:148
+Stack trace:
+#0 /home/keuvain01/www/wordpress/wp-content/plugins/wp-all-import/controllers/admin/import.php(2292): PMXI_Model_Record->__get('name')
+#1 /home/keuvain01/www/wordpress/wp-content/plugins/wp-all-import/plugin.php(666): PMXI_Admin_Import->process()
+#2 /home/keuvain01/www/wordpress/wp-includes/class-wp-hook.php(292): PMXI_Plugin->adminDispatcher('')
+#3 /home/keuvain01/www/wordpress/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#4 /home/keuvain01/www/wordpress/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#5 /home/keuvain01/www/wordpress/wp-admin/admin.php(259): do_action('all-import_page...')
+#6 {main}
+  thrown dans /home/keuvain01/www/wordpress/wp-content/plugins/wp-all-import/models/model/record.php à la ligne 148
+

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<titre><![CDATA[100 jours avant ta mort N°01]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/placeholder/default/xlogo-simple_1_1.png.pagespeed.ic.MmO6Tlw743.png]]></image>
+		<prix><![CDATA[7.90]]></prix>
+		<catgorie><![CDATA[mangas]]></catgorie>
+		<editeur><![CDATA[Glenat]]></editeur>
+		<rouen><![CDATA[Disponible (15)]]></rouen>
+		<lille><![CDATA[Disponible (5)]]></lille>
+		<caen><![CDATA[Disponible (12)]]></caen>
+		<web><![CDATA[2]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[12 ans N°01]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/placeholder/default/xlogo-simple_1_1.png.pagespeed.ic.MmO6Tlw743.png]]></image>
+		<prix><![CDATA[6.90]]></prix>
+		<catgorie><![CDATA[mangas]]></catgorie>
+		<editeur><![CDATA[Glenat]]></editeur>
+		<rouen><![CDATA[Disponible (1)]]></rouen>
+		<lille><![CDATA[Non disponible
+]]></lille>
+		<caen><![CDATA[Disponible (1)]]></caen>
+		<web><![CDATA[4]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[13 ans N°02]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/placeholder/default/xlogo-simple_1_1.png.pagespeed.ic.MmO6Tlw743.png]]></image>
+		<prix><![CDATA[6.90]]></prix>
+		<catgorie><![CDATA[mangas]]></catgorie>
+		<editeur><![CDATA[Glenat]]></editeur>
+		<rouen><![CDATA[Disponible (2)]]></rouen>
+		<lille><![CDATA[Non disponible
+]]></lille>
+		<caen><![CDATA[Disponible (1)]]></caen>
+		<web><![CDATA[4]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[5 minutes forward N°01]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/placeholder/default/xlogo-simple_1_1.png.pagespeed.ic.MmO6Tlw743.png]]></image>
+		<prix><![CDATA[6.85]]></prix>
+		<catgorie><![CDATA[mangas]]></catgorie>
+		<editeur><![CDATA[Kana]]></editeur>
+		<rouen><![CDATA[Disponible (2)]]></rouen>
+		<lille><![CDATA[Disponible (1)]]></lille>
+		<caen><![CDATA[Disponible (1)]]></caen>
+		<web><![CDATA[2]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[6 minutes forward N°02]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/placeholder/default/xlogo-simple_1_1.png.pagespeed.ic.MmO6Tlw743.png]]></image>
+		<prix><![CDATA[6.86]]></prix>
+		<catgorie><![CDATA[mangas]]></catgorie>
+		<editeur><![CDATA[Kana]]></editeur>
+		<rouen><![CDATA[Disponible (2)]]></rouen>
+		<lille><![CDATA[Disponible (1)]]></lille>
+		<caen><![CDATA[Disponible (1)]]></caen>
+		<web><![CDATA[10]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[50 nuance de gras N°01]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/placeholder/default/xlogo-simple_1_1.png.pagespeed.ic.MmO6Tlw743.png]]></image>
+		<prix><![CDATA[7.50]]></prix>
+		<catgorie><![CDATA[mangas]]></catgorie>
+		<editeur><![CDATA[Bamboo Doki Doki]]></editeur>
+		<rouen><![CDATA[Disponible (2)]]></rouen>
+		<lille><![CDATA[Disponible (3)]]></lille>
+		<caen><![CDATA[Disponible (1)]]></caen>
+		<web><![CDATA[2]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[51 nuance de gras N°02]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/placeholder/default/xlogo-simple_1_1.png.pagespeed.ic.MmO6Tlw743.png]]></image>
+		<prix><![CDATA[7.51]]></prix>
+		<catgorie><![CDATA[mangas]]></catgorie>
+		<editeur><![CDATA[Bamboo Doki Doki]]></editeur>
+		<rouen><![CDATA[Disponible (2)]]></rouen>
+		<lille><![CDATA[Disponible (3)]]></lille>
+		<caen><![CDATA[Disponible (1)]]></caen>
+		<web><![CDATA[10]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[7 Ninjas d'Efu N°01]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/placeholder/default/xlogo-simple_1_1.png.pagespeed.ic.MmO6Tlw743.png]]></image>
+		<prix><![CDATA[6.95]]></prix>
+		<catgorie><![CDATA[mangas]]></catgorie>
+		<editeur><![CDATA[Meian Editions]]></editeur>
+		<rouen><![CDATA[Non disponible
+]]></rouen>
+		<lille><![CDATA[Disponible (3)]]></lille>
+		<caen><![CDATA[Disponible (1)]]></caen>
+		<web><![CDATA[2]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[8 Ninjas d'Efu N°02]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/placeholder/default/xlogo-simple_1_1.png.pagespeed.ic.MmO6Tlw743.png]]></image>
+		<prix><![CDATA[6.96]]></prix>
+		<catgorie><![CDATA[mangas]]></catgorie>
+		<editeur><![CDATA[Meian Editions]]></editeur>
+		<rouen><![CDATA[Non disponible
+]]></rouen>
+		<lille><![CDATA[Disponible (3)]]></lille>
+		<caen><![CDATA[Disponible (3)]]></caen>
+		<web><![CDATA[4]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[9 Ninjas d'Efu N°03]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/placeholder/default/xlogo-simple_1_1.png.pagespeed.ic.MmO6Tlw743.png]]></image>
+		<prix><![CDATA[6.97]]></prix>
+		<catgorie><![CDATA[mangas]]></catgorie>
+		<editeur><![CDATA[Meian Editions]]></editeur>
+		<rouen><![CDATA[Non disponible
+]]></rouen>
+		<lille><![CDATA[Disponible (5)]]></lille>
+		<caen><![CDATA[Disponible (2)]]></caen>
+		<web><![CDATA[10]]></web>
+	</node>
+</data>

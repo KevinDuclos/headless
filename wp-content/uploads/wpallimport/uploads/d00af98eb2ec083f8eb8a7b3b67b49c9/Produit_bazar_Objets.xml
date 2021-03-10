@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<titre><![CDATA[ALIEN - décapsuleur Facehugger
+]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/cache/62bdbd1ef4aca77774e9252ca53129ae/1/0/x10018007-0.jpg.pagespeed.ic.PJ3RqXVAu9.jpg]]></image>
+		<prix><![CDATA[10.90]]></prix>
+		<catgorie><![CDATA[Objets]]></catgorie>
+		<fabricant><![CDATA[FaNaTtiK]]></fabricant>
+		<rouen><![CDATA[40]]></rouen>
+		<lille><![CDATA[99]]></lille>
+		<caen><![CDATA[0]]></caen>
+		<web><![CDATA[24]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[Animal Crossing - Peluche Amiral le Kappa 20cm
+]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/cache/62bdbd1ef4aca77774e9252ca53129ae/1/0/x10023240-0.jpg.pagespeed.ic.7I3G8tZ84L.jpg]]></image>
+		<prix><![CDATA[18.00]]></prix>
+		<catgorie><![CDATA[Objets]]></catgorie>
+		<fabricant><![CDATA[Little Buddy]]></fabricant>
+		<rouen><![CDATA[3]]></rouen>
+		<lille><![CDATA[6]]></lille>
+		<caen><![CDATA[2]]></caen>
+		<web><![CDATA[1]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[Animaux Fantastiques - Horloge murale Niveau de dangers
+]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/cache/62bdbd1ef4aca77774e9252ca53129ae/1/0/10022591-0.jpg]]></image>
+		<prix><![CDATA[15.90]]></prix>
+		<catgorie><![CDATA[Objets]]></catgorie>
+		<fabricant><![CDATA[Pyramid International]]></fabricant>
+		<rouen><![CDATA[1]]></rouen>
+		<lille><![CDATA[3]]></lille>
+		<caen><![CDATA[2]]></caen>
+		<web><![CDATA[1]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[ASSASSIN'S CREED - Cache-clés PVC Crest
+]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/cache/62bdbd1ef4aca77774e9252ca53129ae/1/0/10009804-0.jpg]]></image>
+		<prix><![CDATA[10.50]]></prix>
+		<catgorie><![CDATA[Objets]]></catgorie>
+		<fabricant><![CDATA[Abystyle]]></fabricant>
+		<rouen><![CDATA[10]]></rouen>
+		<lille><![CDATA[9]]></lille>
+		<caen><![CDATA[6]]></caen>
+		<web><![CDATA[1]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[Assassin's Creed - Chaussettes Symbole gris et blanc
+]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/cache/62bdbd1ef4aca77774e9252ca53129ae/1/0/x10022810-0.jpg.pagespeed.ic.wxX4D-hA6d.jpg]]></image>
+		<prix><![CDATA[8.90]]></prix>
+		<catgorie><![CDATA[Objets]]></catgorie>
+		<fabricant><![CDATA[Abystyle]]></fabricant>
+		<rouen><![CDATA[40]]></rouen>
+		<lille><![CDATA[110]]></lille>
+		<caen><![CDATA[31]]></caen>
+		<web><![CDATA[36]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[ASSASSINATION CLASSROOM - Mug 3D - Koro Sensei
+]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/cache/62bdbd1ef4aca77774e9252ca53129ae/1/0/10004613-0.jpg]]></image>
+		<prix><![CDATA[14.90]]></prix>
+		<catgorie><![CDATA[Objets]]></catgorie>
+		<fabricant><![CDATA[Abystyle]]></fabricant>
+		<rouen><![CDATA[1]]></rouen>
+		<lille><![CDATA[0]]></lille>
+		<caen><![CDATA[0]]></caen>
+		<web><![CDATA[0]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[ATTACK ON TITANS - poster Eren de dos
+]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/cache/62bdbd1ef4aca77774e9252ca53129ae/7/1/71982-0.jpg]]></image>
+		<prix><![CDATA[7.50]]></prix>
+		<catgorie><![CDATA[Objets]]></catgorie>
+		<fabricant><![CDATA[Pyramid International]]></fabricant>
+		<rouen><![CDATA[2]]></rouen>
+		<lille><![CDATA[0]]></lille>
+		<caen><![CDATA[0]]></caen>
+		<web><![CDATA[1]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[Avengers : Endgame - Bouteille 500 ml or Gantelet d'infinité
+]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/cache/62bdbd1ef4aca77774e9252ca53129ae/1/0/10023852-0.jpg]]></image>
+		<prix><![CDATA[24.90]]></prix>
+		<catgorie><![CDATA[Objets]]></catgorie>
+		<fabricant><![CDATA[Paladone]]></fabricant>
+		<rouen><![CDATA[1]]></rouen>
+		<lille><![CDATA[0]]></lille>
+		<caen><![CDATA[0]]></caen>
+		<web><![CDATA[0]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[BACK TO THE FUTUR - mug Dolorean
+]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/cache/62bdbd1ef4aca77774e9252ca53129ae/8/0/x80094-0.jpg.pagespeed.ic.S4Zt21amdB.jpg]]></image>
+		<prix><![CDATA[10.90]]></prix>
+		<catgorie><![CDATA[Objets]]></catgorie>
+		<fabricant><![CDATA[Pyramid International]]></fabricant>
+		<rouen><![CDATA[1]]></rouen>
+		<lille><![CDATA[0]]></lille>
+		<caen><![CDATA[0]]></caen>
+		<web><![CDATA[0]]></web>
+	</node>
+	<node>
+		<titre><![CDATA[ASSASSIN’S CREED - Mug 320 ml Abstergo (685)
+]]></titre>
+		<image><![CDATA[https://www.bazardubizarre.com/pub/media/catalog/product/cache/62bdbd1ef4aca77774e9252ca53129ae/1/0/10015886-0.jpg]]></image>
+		<prix><![CDATA[9.90]]></prix>
+		<catgorie><![CDATA[Objets]]></catgorie>
+		<fabricant><![CDATA[Abystyle]]></fabricant>
+		<rouen><![CDATA[2]]></rouen>
+		<lille><![CDATA[2]]></lille>
+		<caen><![CDATA[0]]></caen>
+		<web><![CDATA[1]]></web>
+	</node>
+</data>
